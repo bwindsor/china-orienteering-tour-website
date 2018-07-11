@@ -2,7 +2,7 @@
     <ul style="list-style-type: none; margin: 0; padding: 0;">
         {% for entry in site.data.navigation %}
         <li{{ current }} style="float:left;">
-            <a href="{{ site.baseurl }}{{ entry.url }}"
+            <a href="{{ site.baseurl }}{{ entry.url | relative_url }}"
             class="menu-item"
             >{{ entry.title }}</a>
             </li>
