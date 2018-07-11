@@ -1,0 +1,17 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.menu-item {
+    display:block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.menu-item:hover {
+    color: blue;
+    text-decoration: none;
+}
