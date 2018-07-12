@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: International Youth Orienteering Camp in China
+#title: International Youth Orienteering Camp in China
 maintainer: Ben Windsor
 #description: >- # this means to ignore newlines until "baseurl:"
 #  Information and updates about the orienteering trip to China.
-#baseurl: "" # the subpath of your site, e.g. /blog
-#url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 repository: bwindsor/china
 
 # Build settings
@@ -26,6 +26,9 @@ markdown: kramdown
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
+  - jekyll-multiple-languages-plugin
+
+languages: ["en", "cz"]
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

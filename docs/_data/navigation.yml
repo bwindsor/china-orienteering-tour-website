@@ -1,22 +1,20 @@
-- title: Home
+- key: home
   url: "/index.html"
 
-- title: News
+- key: news
   url: /pages/news.html
 
-- title: General Info
+- key: general_info
   url: /pages/info.html
 
-- title: 2018 Info
+- key: this_year_info
   url: /pages/2018.html
 
-- title: Visa
+- key: visa
   url: /pages/visa.html
 
-- title: Who we are
+- key: who_we_are
   url: "/pages/who-we-are.html"
 
-- title: Links
+- key: links
   url: "/pages/links.html"
-
-

@@ -4,8 +4,25 @@
         <li{{ current }} style="float:left;">
             <a href="{{ site.baseurl }}{{ entry.url }}"
             class="menu-item"
-            >{{ entry.title }}</a>
+            >{% t navigation.{{entry.key}} %}</a>
             </li>
             {% endfor %}
+        {% for entry in site.languages %}
+        <li{{ current }} style="float:right;">
+            {% if entry == "en" %}
+            <a href="{{ site.baseurl_root }}{{ page.url }}"
+             class="menu-item"
+            >
+            {{ entry }}
+        </a>
+            {% else %}
+            <a href="{{ site.baseurl_root }}/{{ entry }}{{ page.url }}"
+             class="menu-item"
+            >
+            {{ entry }}
+        </a>
+        {% endif %}
+        </li>
+        {% endfor %}
     </ul>
 </nav>

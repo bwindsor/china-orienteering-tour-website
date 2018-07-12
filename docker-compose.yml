@@ -4,9 +4,13 @@ services:
     command: jekyll serve --force_polling
     image: jekyll/jekyll:3.7.3
     volumes:
-      - /c/Users/BenJW/Documents/Programming/china/docs:/srv/jekyll
+      - /c/Users/BenJW/Documents/Programming/china:/srv/jekyll
+    environment:
+      - JEKYLL_DATA_DIR=/srv/jekyll/docs
     ports:
       - 4000:4000
       - 35729:35729
       - 3000:3000
       -   80:4000
+    working_dir: /srv/jekyll/docs
+
