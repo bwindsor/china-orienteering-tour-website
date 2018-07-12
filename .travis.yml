@@ -2,9 +2,11 @@ language: ruby
 rvm:
   - 2.4.1
 
+install: gem install jekyll
+
 # Assume bundler is being used, therefore
 # the `install` step will run `bundle install` by default.
-script: jekyll build
+script: cd docs && jekyll build
 
 branches:
   only:
