@@ -6,7 +6,7 @@ install: cd docs && gem install jekyll && bundle install
 
 # Assume bundler is being used, therefore
 # the `install` step will run `bundle install` by default.
-script: cd docs && jekyll build
+script: jekyll build
 
 branches:
   only:
