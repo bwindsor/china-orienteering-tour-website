@@ -1,12 +1,14 @@
+sudo: required
+
 language: ruby
-rvm:
-  - 2.4.1
 
-install: cd docs && gem install jekyll && bundle install
+services:
+  - docker
 
-# Assume bundler is being used, therefore
-# the `install` step will run `bundle install` by default.
-script: bundle exec jekyll build
+before_install:
+  - docker pull jekyll/jekyll:3.7.3
+
+script: cd docs && docker run -w /srv/jekyll/docs -v $(pwd):/srv/jekyll -e JEKYLL_DATA_DIR=/srv/jekyll/docs jekyll/jekyll:3.7.3 jekyll build
 
 branches:
   only:
@@ -22,8 +24,10 @@ sudo: false # route your build to the container-based infrastructure for a faste
 
 deploy:
   provider: pages
+  local-dir: docs
+  target-branch: gh-pages
   skip-cleanup: true
   github-token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
-  keep-history: true
+  keep-history: false  # Force push
   on:
     branch: master
