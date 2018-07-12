@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Visa
+title: navigation.visa
 ---
 
-Visit the [visa for China website](https://www.visaforchina.org/).
+{% tf visa.md %}

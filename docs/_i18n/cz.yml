@@ -1,7 +1,8 @@
 global:
   main_title: Mezinárodní soustředění v Číně
   work_in_progress: THIS PAGE IS WORK IN PROGRESS AND SHOULD NOT YET BE CONSIDERED CORRECT INFORMATION
-  
+  back_to_news: Zpět na zprávy
+
 navigation:
   home: Dům
   news: Zprávy
