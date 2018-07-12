@@ -28,7 +28,7 @@ plugins:
   - jekyll-feed
   - jekyll-multiple-languages-plugin
 
-exclude: [vendor]
+exclude: ["vendor", "Gemfile", "README.md", "docker-compose.yml", ".travis.yml"]
 
 languages: ["en", "cz"]
 exclude_from_localizations: ["assets"]
