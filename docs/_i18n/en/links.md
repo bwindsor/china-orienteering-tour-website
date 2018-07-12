@@ -1,7 +1,3 @@
----
-title: Links
----
-
 ## 2017 Links
 [China news video reports](http://dw.chinanews.com/chinanews/content.jsp?id=8391158)
 

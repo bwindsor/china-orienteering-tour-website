@@ -1,7 +1,3 @@
----
-title: General Information
----
-
 ## What is it?
 A Chinese orienteering club called Deer-O – based in Nanjing ([map](https://www.google.co.uk/maps/place/Nanjing), [Wikipedia](https://en.wikipedia.org/wiki/Nanjing)) are organising an international youth orienteering camp sponsored by the Chinese Bureau of Sport. Young orienteers from many European countries are invited, including the UK, Czech Republic, Norway and Sweden. The aim of the camp is to see what orienteering in China is like, to make international friends and to learn a bit about Chinese culture & history. It's not about serious training.
 

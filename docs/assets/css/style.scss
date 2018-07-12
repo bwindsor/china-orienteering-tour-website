@@ -3,10 +3,14 @@
 
 @import "{{ site.theme }}";
 
-.menu-item {
+.generic-menu-item {
     display:block;
-    color: black;
     text-align: center;
+}
+
+.menu-item {
+    @extend .generic-menu-item;
+    color: black;
     padding: 14px 16px;
     text-decoration: none;
 }
@@ -16,11 +20,17 @@
     text-decoration: none;
 }
 
+.menu-flag {
+    padding: 5px;
+    height: 3em;
+    width: 3em;
+}
+
 .page-header {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    background-image: url("{{'/assets/images/Banner.JPG' | relative_url}}");
+    background-image: url("{{site.baseurl_root}}/assets/images/Banner.JPG");
 }
 
 .project-name, .project-tagline {

@@ -11,15 +11,17 @@
         <li{{ current }} style="float:right;">
             {% if entry == "en" %}
             <a href="{{ site.baseurl_root }}{{ page.url }}"
-             class="menu-item"
             >
-            {{ entry }}
+            <img src="{{ site.baseurl_root }}/assets/images/{{ entry }}.svg"
+            class="menu-flag"
+            />
         </a>
             {% else %}
             <a href="{{ site.baseurl_root }}/{{ entry }}{{ page.url }}"
-             class="menu-item"
             >
-            {{ entry }}
+            <img src="{{ site.baseurl_root }}/assets/images/{{ entry }}.svg"
+            class="menu-flag"
+            />
         </a>
         {% endif %}
         </li>
