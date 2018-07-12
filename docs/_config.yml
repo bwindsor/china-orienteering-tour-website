@@ -14,13 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: International Youth Orienteering Camp in China
-email: captain@drongo.org.uk
 maintainer: Ben Windsor
-description: >- # this means to ignore newlines until "baseurl:"
-  Information and updates about the orienteering trip to China.
+#description: >- # this means to ignore newlines until "baseurl:"
+#  Information and updates about the orienteering trip to China.
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  jekyll
 repository: bwindsor/china
 
 # Build settings

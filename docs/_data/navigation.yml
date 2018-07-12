@@ -1,8 +1,22 @@
 - title: Home
-  url: ""
-
-- title: Information
-  url: /info.html
+  url: "/index.html"
 
 - title: News
-  url: /news.html
+  url: /pages/news.html
+
+- title: General Info
+  url: /pages/info.html
+
+- title: 2018 Info
+  url: /pages/2018.html
+
+- title: Visa
+  url: /pages/visa.html
+
+- title: Who we are
+  url: "/pages/who-we-are.html"
+
+- title: Links
+  url: "/pages/links.html"
+
+
