@@ -15,3 +15,18 @@
     color: blue;
     text-decoration: none;
 }
+
+.page-header {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url("{{'/assets/images/Banner.JPG' | relative_url}}");
+}
+
+.project-name, .project-tagline {
+    background-color: rgba(255,255,255,0.7);
+    border-radius: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: black;
+}
