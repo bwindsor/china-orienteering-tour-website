@@ -16,9 +16,9 @@ before_install:
 
 script: docker run -v $(pwd):/srv/jekyll -e JEKYLL_UID=$(id -u) -e JEKYLL_GID=$(id -g) jekyll/jekyll:latest jekyll build
 
-branches:
-  only:
-  - master
+#branches:
+#  only:
+#  - master
 
 deploy:
   provider: pages
