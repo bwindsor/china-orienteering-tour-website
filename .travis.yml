@@ -1,25 +1,20 @@
-sudo: required
-
 language: ruby
+rvm:
+  - 2.4.1    # Pre-installed version of ruby
 
+sudo: false  # Means will run in Travis's docker container - faster
 
+cache: bundler # Cache bundle for speed
+
+# Deploy key
 env:
   global:
     secure: V5j/hiVw4mEh6wIdGU8dd9C6w3nVe8aWyjeMoWf6zbnFXknzHVIXrHXk5aiYYtk4aSji3EMtOKEHYOfv+qDBPOHnVucmwwNYv47dFxw7LgI+dfmTXkKoiJ76V7keba5kKhSVUymcX2ziImf4gYZeNnBPUsbwsrQCiq5aNSfLKQfCuUyT4cNfi39bZNHy3dGqbHX4MgPmMGl+Nns9VBg3+m1idhUdkGylJTdbR/PFE9Fpjt8sXWwoD0q8f81PkIsLWYeY0HSnKJxOFNQfL0suwoymbWigINlMBu97FDotJ6DXOq4CB/IM2IOK5Z2viQkaj7KAXfYYqED3vfMij7z4kdhRN/avJ/KtBE+yNZLjKMC9HqjbQrA5qJnIQRuD3wuZQh+0cp+8td39xY5SRqPQoW0I1NKmqNsiOIRtNec7HjV0t8LzlE5E7r6URdPRu/sqFHox+g5uuDhylzWafasVqpTO9MHjG3AUphJ5mDMuEPQWoPnFcewzxm6pfTEKjyKD+51pF0ysjgCGaK23yVjJSCzjfdRrsRGchvjivAYSQH8sNeUgVxrrEHg97MMy/GDpZUK3Cr5OriOgp1zhrrUbEt1wqvdrMmPy1OshKPZUXvohD3PRx3JZsTNfMrB3b63B9JcAU5mCj/2t7yfIiY0xDg+q9LEiMmqT8Tl/C11E3ok=
 
+# Run build (all branches)
+script: bundle exec jekyll build
 
-services:
-  - docker
-
-before_install:
-  - docker pull jekyll/jekyll:latest
-
-script: docker run -v $(pwd):/srv/jekyll -e JEKYLL_UID=$(id -u) -e JEKYLL_GID=$(id -g) jekyll/jekyll:latest jekyll build
-
-branches:
-  only:
-  - master
-
+# Deploy to publishing branch (master only)
 deploy:
   provider: pages
   local-dir: _site
