@@ -7,4 +7,4 @@
 
 [Opening ceremony drone video](https://www.skypixel.com/share/video/5e835bc4-4d27-4253-84bc-4f11e6cb0608)
 
-[CompassSport report]() (Credit [CompassSport](http://www.compasssport.co.uk/), The UK orienteering magazine)
+CompassSport report [Part1]({{site.baseurl_root}}/assets/files/2017CSPart1.pdf), [Part2]({{site.baseurl_root}}/assets/files/2017CSPart2.pdf) (Credit [CompassSport](http://www.compasssport.co.uk/), The UK orienteering magazine)
