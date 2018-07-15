@@ -28,7 +28,7 @@ You will need a github account.
 
 ## Modifying the website
 ### Translations
-Translations are stored under the `_i18n` directory. Within this, there are folders for each language. Modifying the files in the `cz` subfolder will change the translations for the Czech version of the site.
+Translations are stored under the `_i18n` directory. Within this, there are folders for each language. Modifying the files in the `cz` subfolder will change the translations for the Czech version of the site. Files are written in [markdown](https://en.wikipedia.org/wiki/Markdown) format. Here's a [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 The files `en.yml`, `cz.yml`, and so on are where translations of specific phrases are stored. These two files should have the same structure, but just different values for the keys in each.
 
