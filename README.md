@@ -21,7 +21,7 @@ You will need a github account.
 2. Open a command prompt. (Start -> Run -> cmd)
 3. Run `cd C:\path\to\my\folder`, replacing the directory with the place where you want to put the code
 4. Run `git clone https://github.com/bwindsor/china.git`. This copies the code to your computer.
-5. Now, using a text editor of your choice (Notepad++ is a very basic option, but something like Visual Studio Code is better), you can make modifications to the website (see section below)
+5. Now, using a text editor of your choice (Notepad++ is a very basic option, but something like [Visual Studio Code](https://code.visualstudio.com/) is better), you can make modifications to the website (see section below)
 6. When you've made your changes, run `git commit -m "Description of change"`. Make sure you put quotes around your message. You should replace `Description of change` with a message describing what it is you changed about the website.
 7. Run `git push`. This will copy your changes back to the internet.
 8. After a few minutes, your changes should appear on the deployed version of the website [here](https://bwindsor.github.io/china)
