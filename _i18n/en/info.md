@@ -3,10 +3,8 @@ A Chinese orienteering club called Deer-O – based in Nanjing ([map](https://ww
 
 This camp is a self-help opportunity: the programme in Nanjing is organised by Deer-O, not by any UK organisation. The entire trip will be coordinated and supported by Ben Windsor, but the athlete and their family will remain responsible for their own conduct and safety.
 
-Since the camp is usually mid-week to mid-week, we tend to extend our time in China and go to some mountains or cities on one end of the orienteering part.
-
 ## How many people?
-6 athletes from each country, M/W16 or M/W18.
+Maximum of 12 athletes from each country, M/W16 or M/W18, limit of 80 athletes in total.
 
 ## Location
 Nanjing, China
@@ -20,7 +18,6 @@ Here are typical total costs for the trip (flights may vary):
 | :--- | ---: |
 | Flights | £470 |
 | [Visa](http://bio.visaforchina.org/LON2_EN/upload/file/20180427/2017-12-06%20updated%20schedule%20of%20fees%20_762oUd.pdf) | £175 |
-| Accom/food for the non-Chinese-funded part | £100 |
 | Travel insurance | £50 |
 | Travel vaccinations ([advice](https://www.fitfortravel.nhs.uk/destinations/asia-east/china)) | £50-100 |
 | *Total* | *£850-900* |
@@ -38,7 +35,7 @@ You might see the odd snake. Try not to step on it!
 
 ## Orienteering
 Orienteering in China is less developed than in Europe. A fair amount of the terrain is likely to be parkland,
-generally in or close to Nanjing. The parks will generally be quite interesting, with lots of them being semi-forested and having plenty of paths. In the past we also orienteered in an orange orchard, a beautiful bamboo forest, as well as some less beautiful forests. The terrain won't be up to Scandinavian standards, but it can be challenging and certainly different to what we are used to.
+generally in or close to Nanjing. The parks will generally be quite interesting, with lots of them being semi-forested and having complex path networks. In the past we also orienteered in an orange orchard, a beautiful bamboo forest, as well as some slightly less beautiful forests. The terrain won't be up to Scandinavian standards, but it can be challenging and certainly different to what we are used to.
 
 There will also be some sessions with younger Chinese orienteers (probably aged 10-12), where you will pair up with them and help them round the course. Some of them won't speak a word of English, so get practising your miming skills!
 
