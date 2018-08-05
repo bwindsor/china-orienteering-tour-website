@@ -7,7 +7,9 @@ This camp is a self-help opportunity: the programme in Nanjing is organised by D
 Maximum of 12 athletes from each country, M/W16 or M/W18, limit of 80 athletes in total.
 
 ## Location
-Nanjing, China
+Nanjing, China.
+
+Time zone is 8 hours ahead of GMT, 7 hours ahead of BST.
 
 ## Costs
 Once there, all costs (food, training, accommodation, cultural visits) will be covered by the Chinese Bureau of Sport. Costs of flights and visas are to be met by the athlete.
