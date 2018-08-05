@@ -16,11 +16,11 @@ Here are typical total costs for the trip (flights may vary):
 
 | Item | Cost |
 | :--- | ---: |
-| Flights | £470 |
+| Flights | £520 |
 | [Visa](http://bio.visaforchina.org/LON2_EN/upload/file/20180427/2017-12-06%20updated%20schedule%20of%20fees%20_762oUd.pdf) | £175 |
 | Travel insurance | £50 |
 | Travel vaccinations ([advice](https://www.fitfortravel.nhs.uk/destinations/asia-east/china)) | £50-100 |
-| *Total* | *£750-800* |
+| *Total* | *£800-850* |
 
 ## Food
 We guarantee you'll miss western food by the end of your time in China. The food is very different, but is hugely varied and our Chinese hosts will put a lot of effort into taking us to interesting places to eat - it is part of the experience and you should get enthusiastic about trying things!
