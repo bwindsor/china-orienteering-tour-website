@@ -58,5 +58,6 @@ As this is organised by a Chinese club, it is not covered under British Orientee
 
 It is sad when paperwork stops people from being offered fantastic opportunities - this trip goes on trust, not on qualifications and paperwork. If parents are not entirely happy with this situation, then you should not allow your child to attend the trip.
 
-## Travel insurance
-You will need to have appropriate travel insurance, making sure that the policy wording includes orienteering in sporting activities (some don’t). We recommend [Bupa](https://www.bupa.co.uk/travel-insurance) - they are not the cheapest but they are much more likely to be helpful instead of trying to slither out of paying up if anything happens.
+## Travel insurance / Vaccinations
+See the [medical]({{site.baseurl}}/pages/medical.html) page.
+
