@@ -37,3 +37,13 @@ To add a new page, the following needs changing:
 1. Add the page to `_data/navigation`
 2. Create the page in the `pages` folder with the same structure as the other files - this refers to the translated version of the file for each language.
 3. Create the file in each of the `_i18n/en`, `_i18n/cz` folders, and so on, which contain each translation of the page.
+
+### Add a new language
+To add a new language, the following needs changing:
+1. Add the language abbreviation (e.g. `en`) to the `languages` key in `_config.yml`
+2. Add a `.yml` file under `_i18n` with the equivalent translations for your new language (e.g. `en.yml`)
+3. Add a folder under `_i18n` with the name of your new language, and translated copies of all the markdown files from one of the existing folders
+4. Under `assets/images` add a `.svg` file with the flag of your new language
+
+### Disable a language
+Just remove that language from the `languages` key in `_config.yml`.
