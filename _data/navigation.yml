@@ -13,6 +13,9 @@
 - key: visa
   url: /pages/visa.html
 
+- key: medical
+  url: /pages/medical.html
+
 - key: who_we_are
   url: "/pages/who-we-are.html"
 
