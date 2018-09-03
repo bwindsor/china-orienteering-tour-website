@@ -3,11 +3,11 @@ global:
   back_to_news: Zpět na zprávy
 
 navigation:
-  home: Dům
-  news: Zprávy
-  general_info: General Info
+  home: Úvod
+  news: Novinky
+  general_info: O co jde?
   this_year_info: 2018 Info
-  visa: Víza
-  medical: Medical
-  who_we_are: Kdo jsme
-  links: Linky
+  visa: Vízum
+  medical: Zdravotní info
+  who_we_are: O nás
+  links: Odkazy
