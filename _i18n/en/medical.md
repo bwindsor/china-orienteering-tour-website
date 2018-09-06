@@ -2,7 +2,7 @@
 [BUPA](https://www.bupaglobal.com/en/travel-insurance) is recommended. They are not the cheapest but they are more likely to be helpful in the case of something happening than other cheaper companies. Which insurance you buy is up to you, but make sure it covers medical expenses and make sure it mentions orienteering specifically in the list of sports it covers.
 
 ## Vaccinations
-It is advised is to book an appointment with a nurse who will be able to recommend which vaccinations you should have. You should get on with this as soon as possible as some need to be done a number of weeks before travelling. The NHS website gives information here: http://www.fitfortravel.nhs.uk/destinations/asia-(east)/china.aspx. Places such as [Superdrug travel clinics](https://healthclinics.superdrug.com/travel-vaccinations) can also be very helpful and quicker than the NHS.
+It is advised is to book an appointment with a nurse who will be able to recommend which vaccinations you should have. You should get on with this as soon as possible as some need to be done a number of weeks before travelling. The NHS website [gives information here](http://www.fitfortravel.nhs.uk/destinations/asia-(east)/china.aspx). Places such as [Superdrug travel clinics](https://healthclinics.superdrug.com/travel-vaccinations) can also be very helpful and quicker than the NHS.
 
 Here is information relevant to the specific area we'll be going, but this should not be taken as medical advice.
 
