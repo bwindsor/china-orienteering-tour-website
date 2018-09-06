@@ -18,7 +18,7 @@ K žádosti o vízum jsou potřeba tyto dokumenty:
 
     2.6 22.10 - 01.11.2018 Meiyuan hotel, Xuanwu district, Si pai lou er hao, Nanjing, China
 
-    2.7 Z části Jiangsu sports bureau, z části já sám/sama/rodiče
+    2.7 Z části Jiangsu Sports Bureau, z části já sám/sama/rodiče
 
     2.8 informace budou poslány v mailu
 
