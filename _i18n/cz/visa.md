@@ -28,8 +28,7 @@ K žádosti o vízum jsou potřeba tyto dokumenty:
 
 3) cestovní pas a kopie dvojstrany s fotografií: zbývající platnost min. 6 měsíců, s min. 2 volnými stránkami pro vízum
 
-4) nezletilí: rodný list a souhlas obou rodičů s vycestováním dítěte do Číny (viz [Důležité informace k podání žádosti o vízum do ČLR](www.chinaembassy.cz/cze/lsyw/viza/t753292.htm
-))
+4) nezletilí: rodný list a souhlas obou rodičů s vycestováním dítěte do Číny (viz [Důležité informace k podání žádosti o vízum do ČLR](www.chinaembassy.cz/cze/lsyw/viza/t753292.htm))
 
 5) podklady pro konkrétní typ víza - vízum typu F
 
