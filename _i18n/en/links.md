@@ -1,3 +1,7 @@
+## General Information
+[Lonely Planet essential information page](https://www.lonelyplanet.com/china/essential-information)
+
+
 ## 2017 Links
 [China news video reports](http://dw.chinanews.com/chinanews/content.jsp?id=8391158)
 
