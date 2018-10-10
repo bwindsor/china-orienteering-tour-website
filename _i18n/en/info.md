@@ -134,8 +134,8 @@ There will be plenty of food provided at meal times, but it's probably a good id
 ### Bits and pieces
 * Washkit (toothbrush etc.)
 * Spare glasses/contact lenses, if applicable
-* Small towel (towels will probably be provided, but just in case)
-* Insect repellent (there probably won't be many insects, but just in case)
+* Small towel (towels will probably be provided though)
+* Insect repellent (should be fine, but just in case)
 * Small first aid kit, including:
     * Plasters
     * Blister plasters
