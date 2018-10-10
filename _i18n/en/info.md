@@ -56,7 +56,7 @@ As this is organised by a Chinese club, it is not covered under British Orientee
 It is sad when paperwork stops people from being offered fantastic opportunities - this trip goes on trust, not on qualifications and paperwork. If parents are not entirely happy with this situation, then you should not allow your child to attend the trip.
 
 * **Water** Do not drink tap water. Brushing teeth is fine, just try not to swallow it. There should be somewhere to buy bottled water near the hotel.
-* **Food** The most likely thing to make you ill will be eating something dodgy. This will either make you sick or have diarrhoea and you will feel rubbish, usually for about 24 hours, and then you will be fine again, so don't worry if it happens to you Things which can help to avoid this:
+* **Food** The most likely thing to make you ill will be eating something dodgy. This will either make you sick or have diarrhoea and you will feel rubbish, usually for about 24 hours, and then you will be fine again, so don't worry if it happens to you. Things which can help to avoid this:
     * Only eat freshly cooked food
     * Wash thoroughly or peel all fruit before eating it
     * If we have "hot pot" (a pot of boiling water in the middle of the table where you cook the food yourself), make sure any meat is well cooked before eating it
@@ -68,16 +68,13 @@ It is sad when paperwork stops people from being offered fantastic opportunities
 * **Wildlife** You might see the odd snake in the forest. Try not to step on it!
 
 ## Internet Access and communication
-Many common services such as Google, Gmail, Facebook, Instagram and Snapchat are blocked in China. Other services can become blocked at unblocked at any time. WhatsApp sometimes works and sometimes doesn't. **WeChat** is the Chinese version of WhatsApp, and this will be reliable for communication. There will likely be a massive WeChat group where people from the trip post photos and messages, so if you want to be included in that then you should install WeChat before we go.
+Many common services such as Google, Gmail, Facebook, Instagram and Snapchat are blocked in China. Other services can become blocked and unblocked at any time. WhatsApp sometimes works and sometimes doesn't. **WeChat** is the Chinese version of WhatsApp, and this will be reliable for communication. There will likely be a massive WeChat group where people from the trip post photos and messages, so if you want to be included in that then you should install WeChat before we go.
 
 Remember that calls, text, and data will be quite expensive whilst in China. Using WeChat or WhatsApp over the WiFi in the accommodation will be the best way to communicate.
 
 There are various VPN apps which you can download to your phone which allow access to blocked services. They are not especially reliable, but you can experiment with them as you like.
 
-Hopefully I'll be able to post some short news articles/photos on the website during the trip (unless that is also blocked).
-
-## Meeting at Heathrow
-Make sure you have mine and Zuzka's phone numbers in your phones.
+Hopefully I'll be able to post some short news articles/photos on this website during the trip (unless that is also blocked).
 
 ## Passports
 It is vital that passports remain safe throughout the trip, if it is lost then you will need to go to the British embassy and it will take around two weeks before you are allowed to return to the UK. Passports are also needed for buying transport tickets and checking into accommodation. I am willing to collect passports and keep hold of them during the trip, but I leave this to you as to whether you would like to keep it yourself or give it to me.
@@ -95,7 +92,7 @@ This isn’t an exhaustive list, but it should include the essential things:
 * **Two** paper photocopies of your passport – one for you to keep and one for me to keep
 * Student card, if you have one, this might give a reduction on entry to some tourist attractions
 * Printed copy of your insurance information
-* Signed consent form, unless you have already emailed it to me
+* Signed [consent form]({{site.baseurl_root}}/assets/files/DataAndConsentForm.doc), unless you have already emailed it to me
 
 ### Money
 The currency in China is the **Chinese Yuan**. On a long term basis the exchange rate is about 10 Yuan = £1, but of course it varies all the time. There is nothing during the trip for which spending money will be required, however there will be opportunities to go shopping, and buy snacks and street food. I recommend bringing £100 worth of Yuan at the most. If you end up without enough cash, I will probably have some spare cash which I can lend you and bill you for in pounds after the trip.
@@ -126,6 +123,7 @@ The weather is typically dry, sunshine and cloud, 20 degrees in the day 10 degre
 * T-shirts, trousers, jumpers
 * Socks and underwear
 * Nightwear
+* Optional: swimming costume (it's unlikely that there will be any swimming)
 
 ### Food
 There will be plenty of food provided at meal times, but it's probably a good idea to bring a supply of cereal bars to take training with you. There will be some shops around too if you want to buy snacks, but the things available might be quite different to what you would expect in the UK!
@@ -151,7 +149,7 @@ There will be plenty of food provided at meal times, but it's probably a good id
 * Some “typical” food from the UK to share around with the other countries
 * A selection of interesting maps which you have, others will be interested in seeing them!
 
-You **don't** need a sleeping bag, a mat, or swimming clothes (swimming in Lakes isn't really a thing in China).
+You **don't** need a sleeping bag, or a mat.
 
 ## Documents which I will need a copy of
 * A scan or photo of your passport (photo page and visa page)
