@@ -132,7 +132,7 @@ There will be plenty of food provided at meal times, but it's probably a good id
 * Cereal bars
 
 ### Bits and pieces
-* Washkit (toothbrush etc.)
+* Washkit (toothbrush, toothpaste etc.)
 * Spare glasses/contact lenses, if applicable
 * Small towel (towels will probably be provided though)
 * Sun cream
