@@ -123,16 +123,19 @@ The weather is typically dry, sunshine and cloud, 20 degrees in the day 10 degre
 * T-shirts, trousers, jumpers
 * Socks and underwear
 * Nightwear
-* Optional: swimming costume (it's unlikely that there will be any swimming)
+* Swimming costume (outdoor swimming unlikely, but hotel may have a pool)
+* Swimming hat
 
 ### Food
 There will be plenty of food provided at meal times, but it's probably a good idea to bring a supply of cereal bars to take training with you. There will be some shops around too if you want to buy snacks, but the things available might be quite different to what you would expect in the UK!
+* Food for the journey there. There will be meals on the flight but if you are a hungry person they won't be enough, and with the coach journey at the other end it'll be 20 hours or so of travelling
 * Cereal bars
 
 ### Bits and pieces
 * Washkit (toothbrush etc.)
 * Spare glasses/contact lenses, if applicable
 * Small towel (towels will probably be provided though)
+* Sun cream
 * Insect repellent (should be fine, but just in case)
 * Small first aid kit, including:
     * Plasters
