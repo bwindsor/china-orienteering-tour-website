@@ -155,6 +155,7 @@ There will be plenty of food provided at meal times, but it's probably a good id
 You **don't** need a sleeping bag, or a mat.
 
 ## Documents which I will need a copy of
-* A scan or photo of your passport (photo page and visa page)
+* A scan or photo of your passport photo page
+* A scan or photo of your passport visa page
 * A copy of your travel insurance documents
 * Filled in [Data and Consent Form]({{site.baseurl_root}}/assets/files/DataAndConsentForm.doc) – ideally you would print, sign, scan and email this to me. If that’s not possible, email me an unsigned version and bring the signed one to the airport.
