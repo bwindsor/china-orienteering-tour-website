@@ -4,7 +4,8 @@ title: navigation.news
 ---
 {%- for post in site.posts -%}
 
-### [{{post.title}}]({{ post.url | relative_url }})
+<h3 id="{{post.title}}"><a href="{{ post.url | relative_url }}">{{post.title}}</a></h3>
+
 {{ post.excerpt | strip_html | truncatewords:30 }} 
 
 {%- endfor -%}
