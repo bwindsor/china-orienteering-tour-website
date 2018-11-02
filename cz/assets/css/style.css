@@ -326,7 +326,7 @@ a:hover { text-decoration: underline; }
 
 .menu-flag { padding: 5px; height: 3em; width: 3em; }
 
-.page-header { background-size: cover; background-repeat: no-repeat; background-position: bottom; background-image: url("/china/assets/images/Banner.JPG"); }
+.page-header { background-size: cover; background-repeat: no-repeat; background-position-y: 85%; background-image: url("/china/assets/images/Banner.JPG"); }
 
 .project-name, .project-tagline { background-color: rgba(255, 255, 255, 0.6); border-radius: 20px; padding-left: 10px; padding-right: 10px; color: black; }
 
