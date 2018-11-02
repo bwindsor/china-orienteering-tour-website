@@ -29,12 +29,12 @@
 .page-header {
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: bottom;
     background-image: url("{{site.baseurl_root}}/assets/images/Banner.JPG");
 }
 
 .project-name, .project-tagline {
-    background-color: rgba(255,255,255,0.7);
+    background-color: rgba(255,255,255,0.6);
     border-radius: 20px;
     padding-left: 10px;
     padding-right: 10px;
