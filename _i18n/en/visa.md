@@ -12,7 +12,7 @@ You can either apply for your visa in person or by post, but if applying by post
 
 Turnaround times for visas are typically less than a week, as long as they are happy with all your documents.
 
-For information on what you should put in the visa form for this year's trip, see [2018 visa information]({{site.baseurl}}/pages/2018.html#visa).
+For information on what you should put in the visa form for this year's trip, see [2019 visa information]({{site.baseurl}}/pages/2019.html#visa).
 
 You should get the following things from me by email, which need to be included in the application:
 
