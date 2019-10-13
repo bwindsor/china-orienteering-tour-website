@@ -1,5 +1,6 @@
 O vízum je potřeba zažádat na čínském [velvyslanectví](https://www.google.co.uk/maps/place/Pelléova+71%2F18,+160+00+Praha+6-Bubeneč,+Czechia/@50.1014338,14.4052059,17z/data=!3m1!4b1!4m5!3m4!1s0x470b952784b3858f:0xf8889cacfd222c1a!8m2!3d50.1014304!4d14.4073946) v Praze během [úředních hodin](http://www.chinaembassy.cz/cze/lsyw/t1525474.htm) pro veřejnost zhruba měsíc před odjezdem. Při žádosti není možné se předem objednat, proto doražte raději s předstihem, protože je často fronta na předání žádosti. 
 
+
 K žádosti o vízum jsou potřeba tyto dokumenty:
 
 1) [Formulář](http://www.chinaembassy.cz/cze/lsyw/kzfks/P020140328781413758431.pdf) žádosti o vízum do Čínské lidové republiky (V.2013A nebo V.2013): vyplněný kompletně a podle skutečnosti, podepsaný žadatelem o vízum
