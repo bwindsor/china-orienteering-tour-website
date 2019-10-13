@@ -99,7 +99,7 @@ The currency in China is the **Chinese Yuan**. On a long term basis the exchange
 * Up to £100 in Chinese Yuan
 
 ### Bags
-* Big rucksack or suitcase
+* Big rucksack (NOT a suitcase - we may need to hike with it)
 * Small rucksack to use as a day bag
 
 ### Orienteering Kit
